@@ -4,7 +4,7 @@ Este proyecto es una práctica para experimentar con **SQLAlchemy** y su facilid
 
 ---
 
-## 🚀 Descripción del Proyecto
+##  Descripción del Proyecto
 
 El objetivo fue integrar diferentes herramientas del ecosistema de Python y bases de datos para lograr un flujo completo de trabajo:
 
